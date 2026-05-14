@@ -1,14 +1,18 @@
 [
   {
-    "name": "Bench Press"
+    "name": "Bench Press",
+    "muscle": "Chest"
   },
   {
-    "name": "Incline Dumbbell Press"
+    "name": "Incline Dumbbell Press",
+    "muscle": "Chest"
   },
   {
-    "name": "Cable Fly"
+    "name": "Cable Fly",
+    "muscle": "Chest"
   },
   {
-    "name": "Tricep Pushdown"
+    "name": "Tricep Pushdown",
+    "muscle": "Triceps"
   }
 ]
