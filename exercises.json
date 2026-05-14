@@ -1,9 +1,14 @@
-{
-  "exercises": [
-    "Bench Press",
-    "Incline Dumbbell Press",
-    "Cable Fly",
-    "Tricep Pushdown"
-  ],
-  "restDay": "Tomorrow"
-}
+[
+  {
+    "name": "Bench Press"
+  },
+  {
+    "name": "Incline Dumbbell Press"
+  },
+  {
+    "name": "Cable Fly"
+  },
+  {
+    "name": "Tricep Pushdown"
+  }
+]
